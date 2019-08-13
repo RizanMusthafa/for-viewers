@@ -1,4 +1,4 @@
-# for-viewvers - IMPORTANT
+# for-viewers - IMPORTANT
 
 I am now Primarly using https://gitlab.com/ for my remote repository management and its awesome :).
 
